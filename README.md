@@ -1,5 +1,8 @@
 # Employee Leave Management System
 
+<img width="1898" height="859" alt="Screenshot (1024)" src="https://github.com/user-attachments/assets/c354d6be-82ad-4b75-b953-4a0ceb258ed4" />
+
+
 A beginner-friendly employee leave management web app built with **Python, Flask, and SQLite**. Employees can submit leave requests, and a manager can approve or reject them. The app also provides REST API endpoints that use JSON.
 
 ## Features
