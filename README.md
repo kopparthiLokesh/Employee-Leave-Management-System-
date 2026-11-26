@@ -1,5 +1,8 @@
 # Employee Leave Management System
 
+<img width="1898" height="859" alt="Screenshot (1024)" src="https://github.com/user-attachments/assets/0862b204-77ae-4fd6-b16b-6fe98e8997ef" />
+
+
 A Business Analyst portfolio prototype demonstrating requirement-to-solution thinking, workflow, CRUD operations, REST APIs, JSON, validation, and reporting-ready data.
 
 ## Run locally
